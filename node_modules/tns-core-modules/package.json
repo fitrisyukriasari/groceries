@@ -1,0 +1,118 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "tns-core-modules@next",
+        "scope": null,
+        "escapedName": "tns-core-modules",
+        "name": "tns-core-modules",
+        "rawSpec": "next",
+        "spec": "next",
+        "type": "tag"
+      },
+      "C:\\Users\\Fitri Syukriasari\\Desktop\\gros"
+    ]
+  ],
+  "_from": "tns-core-modules@next",
+  "_id": "tns-core-modules@3.1.0-2017-05-26-6731",
+  "_inCache": true,
+  "_location": "/tns-core-modules",
+  "_nodeVersion": "6.9.4",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/tns-core-modules-3.1.0-2017-05-26-6731.tgz_1495808094047_0.5599842960946262"
+  },
+  "_npmUser": {
+    "name": "tns-bot",
+    "email": "nativescript@telerik.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "tns-core-modules@next",
+    "scope": null,
+    "escapedName": "tns-core-modules",
+    "name": "tns-core-modules",
+    "rawSpec": "next",
+    "spec": "next",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/tns-core-modules/-/tns-core-modules-3.1.0-2017-05-26-6731.tgz",
+  "_shasum": "f3fa97d6dadddf627cc7203495d85c1db4848713",
+  "_shrinkwrap": null,
+  "_spec": "tns-core-modules@next",
+  "_where": "C:\\Users\\Fitri Syukriasari\\Desktop\\gros",
+  "dependencies": {
+    "tns-core-modules-widgets": "next"
+  },
+  "description": "Telerik NativeScript Core Modules",
+  "devDependencies": {
+    "@types/node": "~7.0.5",
+    "tns-platform-declarations": "*"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "f3fa97d6dadddf627cc7203495d85c1db4848713",
+    "tarball": "https://registry.npmjs.org/tns-core-modules/-/tns-core-modules-3.1.0-2017-05-26-6731.tgz"
+  },
+  "files": [
+    "**/*.d.ts",
+    "**/*.js",
+    "!android17.d.ts",
+    "!ios.d.ts",
+    "!bin/",
+    "!apps/",
+    "!build/",
+    "!node-tests/",
+    "!declarations.android.d.ts",
+    "!declarations.ios.d.ts",
+    "!gruntfile.js",
+    "!org.nativescript.widgets.d.ts"
+  ],
+  "homepage": "https://www.nativescript.org",
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "hdeshev",
+      "email": "hristo@deshev.com"
+    },
+    {
+      "name": "hhristov",
+      "email": "hristo.hristov@outlook.com"
+    },
+    {
+      "name": "panayot.cankov",
+      "email": "panayot.cankov@telerik.com"
+    },
+    {
+      "name": "tns-bot",
+      "email": "nativescript@telerik.com"
+    },
+    {
+      "name": "vakrilov",
+      "email": "alexander.vakrilov@gmail.com"
+    }
+  ],
+  "name": "tns-core-modules",
+  "nativescript": {
+    "platforms": {
+      "ios": "2.1.1",
+      "android": "2.1.1"
+    }
+  },
+  "optionalDependencies": {},
+  "publishConfig": {
+    "tag": "next"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NativeScript/NativeScript/commit/44b4afab427ed5f33879ebc07e3c6e413658422f"
+  },
+  "scripts": {},
+  "typings": "tns-core-modules.d.ts",
+  "version": "3.1.0-2017-05-26-6731"
+}

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.0.0_27f80351de348e46f51193379a8f8daa2ecced72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.0.0_626e8174d7700d8122b5fcfe773a56163245f013.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\groceries\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e45d63bd91f9a51a9e6f9c96be7a01deb415690">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\groceries-runtime-unspecified_2ffdff160b43598e8da49b68ed024fac09c0e7df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="J:\ALLABOUTSDKAndroid\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.0.0_50f35f84390791d0aa76a4a67d3ffd08b579baef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.0.0_2b893878143e0e2d67d2c69046ed2439704a20fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.0.0_2c6b97889a2f3650a7ff36efff5d02fb4918f5a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_80de86bd05cd8bf4989d13e766edcf79de0b9fb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.0_89ddb88d3b0b2ac205cd8b5f7f9627ed2238c64b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\groceries\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_0b6f01ec9ec397cc8f018adb0f5c1fd211fdb21f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.0.0_6b5e6231b67d7831deb81e467679fe3a5af736e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.0.0_0d270a3fc5a74fa35be35ee6315fd54747da0f1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.0.0_dd683ff9f0a96cef68fea7bd1427696fe3096c5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.0_6b132b160ae66912f2d5fe69c60394947c57be58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.0.0_182b39995e4d03632ee4902a86c7a1752099de6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.0.0_8b9b5a9dfb4e3293a90b7a08b529a060d2ca1444.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.0.0_4776b7e68d04e43bedfbc4fa6eadde20213f2d40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.0.0_73ad6041d5c92fb69a38cc5e9253d25185ecac72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.0.0_514116aadf9f01749b645ee3995d8147118bc08b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.0_d14d59c39fcd28fafbc5f9b4798fbb89dbf4462b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.0_f4bf3ca94646188f24f7a539ec0fcd23bc4be0cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Fitri Syukriasari\Desktop\gros\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-25.0.0_d422749eecb58bbc1f549e490ea208f282b9e0a7.jar" />
+    </item>
+
+</items>
